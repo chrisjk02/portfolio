@@ -102,6 +102,15 @@ h3 {
     text-align: right;
 }
 
+.primary-header {
+    background-color: white;
+    position: sticky;
+    top: 0;
+    z-index: 99;
+    border-radius: 0 0 1rem 1rem;
+    padding: 20px;
+}
+
 .primary-header__layout {
     display: flex;
     align-items: center;
