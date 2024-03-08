@@ -125,7 +125,9 @@ h3 {
 }
 
 .footer.content {
+    background-color: black;
     grid-template-rows: 4fr 0.5fr;
+    color: white;
 }
 
 .footer>* {
